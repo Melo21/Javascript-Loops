@@ -29,3 +29,4 @@ Class sizes are small to ensure that each student gets individual attention from
 
 For more information visit: https://www.lambdaschool.com
 # JavascriptLoops
+# JS-Functions
